@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Course App</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>0.99€</item>
+        <item>0.89€</item>
+        <item>1.19€</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Ripe peaches from Spain</item>
+        <item>Juicy, local tomatoes</item>
+        <item>Very erect squash</item>
+    </string-array>
+
 </resources>

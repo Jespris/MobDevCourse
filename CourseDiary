@@ -20,3 +20,10 @@ I completed part 2 with some difficulties opening up google,
 seems my emulator doesn't have a web browser installed that can resolve the intent...
 Other than that, this part went pretty smoothly and I understand now how to open new activities.
 I'm also learning quite a bit about android studio and how to use it efficiently.
+
+23.10.2023
+I completed part 3 this afternoon in one sitting. It went quite smoothly,
+and I learned the objectives of the video. Since the video is 6 years old Android Studio
+I felt that there is probably a better way of doing the list view,
+rather than splitting up the information into three String arrays. Anyhow,
+I got the app working and I'm proud of myself :)
