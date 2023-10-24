@@ -5,4 +5,6 @@ There is a course diary in the repository which explains my progress and difficu
 
 The project should work just by importing the entire repository into Android Studio and running the main activity with an Android device of your choice.
 
+Link to app demonstration video on youtube: https://youtu.be/JC158o6PFXo
+
 - Jesper Andersson
