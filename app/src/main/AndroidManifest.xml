@@ -15,6 +15,9 @@
         android:theme="@style/Theme.CourseApp"
         tools:targetApi="31">
         <activity
+            android:name=".TictactoeActivity"
+            android:exported="false" />
+        <activity
             android:name=".CalculatorActivity"
             android:exported="false" />
         <activity

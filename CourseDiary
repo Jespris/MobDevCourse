@@ -27,3 +27,8 @@ and I learned the objectives of the video. Since the video is 6 years old Androi
 I felt that there is probably a better way of doing the list view,
 rather than splitting up the information into three String arrays. Anyhow,
 I got the app working and I'm proud of myself :)
+
+24.10.2023
+For the final project I decided to just continue working on the same app as previous parts as a base.
+I improved the calculator and moved it to a separate activity. I also want to create a TicTacToe game
+in this app so I started that as well.

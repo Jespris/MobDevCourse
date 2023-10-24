@@ -27,6 +27,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button ticTacBtn = (Button) findViewById(R.id.ticTacBtn);
+        ticTacBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent startIntent = new Intent(getApplicationContext(), TictactoeActivity.class);
+
+                startActivity(startIntent);
+            }
+        });
+
         Button secondActivityBn = (Button) findViewById(R.id.secondActivityBtn);
         secondActivityBn.setOnClickListener(new View.OnClickListener() {
             @Override
